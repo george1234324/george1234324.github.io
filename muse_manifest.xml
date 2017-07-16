@@ -1,0 +1,172 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="e95225yf.bget.ru" resolutions="1x" timestamp="1500232248010">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="3819777975" ref="index"/>
+    <file name="iefonts_index.css" crc="88672691" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome.woff" crc="3924747212"/>
+    <file name="fontawesome.eot" crc="74013084"/>
+    <file name="fontawesome.svg" crc="4260709918"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="phone>index:index"/>
+    <file name="museutils.js" crc="4155826306" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="483509463" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="phone>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4078243563" ref="phone>index:index"/>
+    <file name="form_check.php" crc="474517188" ref="phone>index"/>
+    <file name="form_throttle.php" crc="495784356" ref="phone>index"/>
+    <file name="form_process.php" crc="4149049960" ref="phone>index"/>
+    <file name="form-u4480.php" crc="3812857912" ref="phone>index"/>
+    <file name="form-u4635.php" crc="80230862" ref="phone>index"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="157639107" ref="phone>index:index"/>
+    <file name="form-u5561.php" crc="113704200" ref="phone>index"/>
+    <file name="form-u5655.php" crc="3943814992" ref="phone>index"/>
+    <file name="form-u6427.php" crc="3903048262" ref="phone>index"/>
+    <file name="require.js" crc="228336483" ref="phone>index:index"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index"/>
+    <file name="form-u1364.php" crc="3883944091" ref="index"/>
+    <file name="form-u2980.php" crc="464053598" ref="index"/>
+    <file name="form-u3157.php" crc="3899240026" ref="index"/>
+    <file name="form-u3214.php" crc="3853534703" ref="index"/>
+    <file name="form-u6205.php" crc="338214210" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bg.jpg" crc="3958018446" ref="phone>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="vk-u3692.png" crc="4132645790" ref="phone>index"/>
+    <file name="twitter-u3699.png" crc="373998250" ref="phone>index"/>
+    <file name="instagram-logo-u3707.png" crc="481664903" ref="phone>index"/>
+    <file name="facebook-logo-button-u3715.png" crc="452556358" ref="phone>index"/>
+    <file name="hr-white-three-u2245-u4124.png" crc="3932625397" ref="phone>index"/>
+    <file name="1.jpg" crc="265424515" ref="phone>index"/>
+    <file name="hr-white-three-u2245-u6599.png" crc="3932625397" ref="phone>index"/>
+    <file name="wedding-u4294-fr.jpg" crc="240425607" ref="phone>index"/>
+    <file name="wedding1-u4305-fr.jpg" crc="3805498886" ref="phone>index"/>
+    <file name="wedding4-u4313-fr.jpg" crc="4002146653" ref="phone>index"/>
+    <file name="wedding5-u4316-fr.jpg" crc="399898521" ref="phone>index"/>
+    <file name="wedding6-u4324-fr.jpg" crc="4114767430" ref="phone>index"/>
+    <file name="wedding8-u4332-fr.jpg" crc="4696552" ref="phone>index"/>
+    <file name="wedding7-u4340-fr.jpg" crc="3988519985" ref="phone>index"/>
+    <file name="wedding3-u4348-fr.jpg" crc="419795819" ref="phone>index"/>
+    <file name="inspiration-geometry.png" crc="3926881186" ref="phone>index:index"/>
+    <file name="bg1.jpg" crc="171428347" ref="phone>index:index"/>
+    <file name="hr-white-three-u2245-u4467.png" crc="157535322" ref="phone>index"/>
+    <file name="u4481-17.png" crc="3802822383" ref="phone>index"/>
+    <file name="u4481-17-r.png" crc="449822571" ref="phone>index"/>
+    <file name="u4481-17-m.png" crc="449822571" ref="phone>index"/>
+    <file name="u4481-17-fs.png" crc="449822571" ref="phone>index"/>
+    <file name="hr-white-three-u2245-u6606.png" crc="3932625397" ref="phone>index"/>
+    <file name="u4647-17.png" crc="3802822383" ref="phone>index"/>
+    <file name="u4647-17-r.png" crc="449822571" ref="phone>index"/>
+    <file name="u4647-17-m.png" crc="449822571" ref="phone>index"/>
+    <file name="u4647-17-fs.png" crc="449822571" ref="phone>index"/>
+    <file name="cancel.png" crc="4209128685" seo="true" ref="phone>index:index"/>
+    <file name="u5562-17.png" crc="3802822383" ref="phone>index"/>
+    <file name="u5562-17-r.png" crc="449822571" ref="phone>index"/>
+    <file name="u5562-17-m.png" crc="449822571" ref="phone>index"/>
+    <file name="u5562-17-fs.png" crc="449822571" ref="phone>index"/>
+    <file name="u5656-17.png" crc="3802822383" ref="phone>index"/>
+    <file name="u5656-17-r.png" crc="449822571" ref="phone>index"/>
+    <file name="u5656-17-m.png" crc="449822571" ref="phone>index"/>
+    <file name="u5656-17-fs.png" crc="449822571" ref="phone>index"/>
+    <file name="hr-white-three-u2245-u6613.png" crc="3932625397" ref="phone>index"/>
+    <file name="photo-camera-u2018-u5820.png" crc="4293116493" ref="phone>index"/>
+    <file name="picture-u2134-u5839.png" crc="4059053604" ref="phone>index"/>
+    <file name="event-date-and-time-symbol-u2150-u5877.png" crc="3791246308" ref="phone>index"/>
+    <file name="hr-white-three-u2245-u6620.png" crc="3932625397" ref="phone>index"/>
+    <file name="otz.jpg" crc="363038867" ref="phone>index"/>
+    <file name="hr-white-three-u2245-u6627.png" crc="3932625397" ref="phone>index"/>
+    <file name="u6429-17.png" crc="3802822383" ref="phone>index"/>
+    <file name="u6429-17-r.png" crc="449822571" ref="phone>index"/>
+    <file name="u6429-17-m.png" crc="449822571" ref="phone>index"/>
+    <file name="u6429-17-fs.png" crc="449822571" ref="phone>index"/>
+    <file name="cancel2.png" crc="3968079486" seo="true" ref="phone>index"/>
+    <file name="vk-u6107.png" crc="4132645790" ref="phone>index"/>
+    <file name="twitter-u6110.png" crc="373998250" ref="phone>index"/>
+    <file name="instagram-logo-u6113.png" crc="481664903" ref="phone>index"/>
+    <file name="facebook-logo-button-u6116.png" crc="452556358" ref="phone>index"/>
+    <file name="vk-u1894.png" crc="89136877" ref="index"/>
+    <file name="twitter-u1902.png" crc="4119821221" ref="index"/>
+    <file name="instagram-logo-u1912.png" crc="154337198" ref="index"/>
+    <file name="facebook-logo-button-u1924.png" crc="3771675202" ref="index"/>
+    <file name="menu.png" crc="42422800" seo="true" ref="index"/>
+    <file name="12.jpg" crc="409453635" ref="index"/>
+    <file name="hr-white-three-u2245-u2195.png" crc="157535322" ref="index"/>
+    <file name="wedding-u2661-fr.jpg" crc="339839891" ref="index"/>
+    <file name="wedding-u2661-r-fr.png" crc="4279153459" ref="index"/>
+    <file name="wedding1-u2741-fr.jpg" crc="4234760140" ref="index"/>
+    <file name="wedding1-u2741-r-fr.png" crc="121834716" ref="index"/>
+    <file name="wedding3-u2755-fr.jpg" crc="3845333385" ref="index"/>
+    <file name="wedding3-u2755-r-fr.png" crc="475159896" ref="index"/>
+    <file name="wedding4.jpg" crc="533524642" ref="index"/>
+    <file name="wedding4-u2769-r-fr.png" crc="267519428" ref="index"/>
+    <file name="wedding5-u2786-fr.jpg" crc="525004279" ref="index"/>
+    <file name="wedding5-u2786-r-fr.png" crc="345164710" ref="index"/>
+    <file name="wedding6-u2800-fr.jpg" crc="94488179" ref="index"/>
+    <file name="wedding6-u2800-r-fr.png" crc="101759809" ref="index"/>
+    <file name="wedding8-u2811-fr.jpg" crc="221813385" ref="index"/>
+    <file name="wedding8-u2811-r-fr.png" crc="457965763" ref="index"/>
+    <file name="wedding7-u2825-fr.jpg" crc="9403449" ref="index"/>
+    <file name="wedding7-u2825-r-fr.png" crc="4080230524" ref="index"/>
+    <file name="wedding.jpg" crc="4012936117" seo="true" ref="index"/>
+    <file name="wedding1.jpg" crc="209596272" seo="true" ref="index"/>
+    <file name="wedding3.jpg" crc="176986375" seo="true" ref="index"/>
+    <file name="wedding4621x414.jpg" crc="3935491060" seo="true" ref="index"/>
+    <file name="wedding5.jpg" crc="4068805084" seo="true" ref="index"/>
+    <file name="wedding6.jpg" crc="117663376" seo="true" ref="index"/>
+    <file name="wedding8.jpg" crc="520582604" seo="true" ref="index"/>
+    <file name="wedding7.jpg" crc="60138666" seo="true" ref="index"/>
+    <file name="hr-white-three-u2245-u2205.png" crc="157535322" ref="index"/>
+    <file name="u1365-17.png" crc="3802822383" ref="index"/>
+    <file name="u1365-17-r.png" crc="449822571" ref="index"/>
+    <file name="u1365-17-m.png" crc="449822571" ref="index"/>
+    <file name="u1365-17-fs.png" crc="449822571" ref="index"/>
+    <file name="hr-white-three-u2245-u2215.png" crc="157535322" ref="index"/>
+    <file name="u2987-17.png" crc="3802822383" ref="index"/>
+    <file name="u2987-17-r.png" crc="449822571" ref="index"/>
+    <file name="u2987-17-m.png" crc="449822571" ref="index"/>
+    <file name="u2987-17-fs.png" crc="449822571" ref="index"/>
+    <file name="u3173-17.png" crc="3802822383" ref="index"/>
+    <file name="u3173-17-r.png" crc="449822571" ref="index"/>
+    <file name="u3173-17-m.png" crc="449822571" ref="index"/>
+    <file name="u3173-17-fs.png" crc="449822571" ref="index"/>
+    <file name="u3230-17.png" crc="3802822383" ref="index"/>
+    <file name="u3230-17-r.png" crc="449822571" ref="index"/>
+    <file name="u3230-17-m.png" crc="449822571" ref="index"/>
+    <file name="u3230-17-fs.png" crc="449822571" ref="index"/>
+    <file name="hr-white-three-u2245-u2225.png" crc="157535322" ref="index"/>
+    <file name="photo-camera-u2018-u2018.png" crc="4293116493" ref="index"/>
+    <file name="picture-u2134-u2134.png" crc="4059053604" ref="index"/>
+    <file name="event-date-and-time-symbol-u2150-u2150.png" crc="3791246308" ref="index"/>
+    <file name="hr-white-three-u2245-u2235.png" crc="157535322" ref="index"/>
+    <file name="wedding-u1462-fr.jpg" crc="3859094725" ref="index"/>
+    <file name="wedding3-u1468-fr.jpg" crc="371073332" ref="index"/>
+    <file name="wedding7-ieu1474-fr.png" crc="3795184762" ref="index"/>
+    <file name="wedding72.jpg" crc="4284988656" ref="index"/>
+    <file name="hr-white-three-u2245-u2245.png" crc="157535322" ref="index"/>
+    <file name="u6206-17.png" crc="3802822383" ref="index"/>
+    <file name="u6206-17-r.png" crc="449822571" ref="index"/>
+    <file name="u6206-17-m.png" crc="449822571" ref="index"/>
+    <file name="u6206-17-fs.png" crc="449822571" ref="index"/>
+    <file name="vk-u2072.png" crc="89136877" ref="index"/>
+    <file name="twitter-u2075.png" crc="4119821221" ref="index"/>
+    <file name="instagram-logo-u2078.png" crc="154337198" ref="index"/>
+    <file name="facebook-logo-button-u2081.png" crc="3771675202" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4031318473" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="188564898" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4088112426" seo="true" mt="1500226955276" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="264348141" seo="true" mt="1500230334064" redirect="true"/>
+</manifest>
